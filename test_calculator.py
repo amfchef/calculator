@@ -11,5 +11,5 @@ class TestCalc:
         assert 100 == Calc.sub(100, 0)
 
     def test_multi(self):
-        assert 100 == Calc.multi(10,10)
-        assert 50 == Calc.multi(5,10)
+        assert 100 == Calc.multi(10, 10)
+        assert 50 == Calc.multi(5, 10)

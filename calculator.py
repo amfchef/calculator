@@ -6,5 +6,4 @@ class Calc:
         return x - y
 
     def multi(x, y):
-        return x *y
-
+        return x * y
